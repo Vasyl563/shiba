@@ -1,10 +1,9 @@
 <template>
   <div id="Roadmap">
-    <!--    <SCardRoadmap />-->
-    <test />
+    <SCardRoadmap />
   </div>
 </template>
 
 <script setup>
-import test from "~/components/shared/test.vue";
+import SCardRoadmap from "~/components/shared/SCardRoadmap.vue";
 </script>
